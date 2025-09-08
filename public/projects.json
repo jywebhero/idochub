@@ -1,0 +1,72 @@
+[
+  {
+    "id": 2,
+    "title": "ragflow",
+    "description": "RAGFlow 是一个基于深度文档理解的开源检索增强生成（RAG）引擎。",
+    "logo": "infiniflow_ragflow_logo.png",
+    "owner": "infiniflow",
+    "repo": "ragflow",
+    "star_count": 63084,
+    "status": 1,
+    "language": "TypeScript",
+    "tags": [
+      "agent",
+      "agentic",
+      "agentic-ai",
+      "agentic-workflow",
+      "ai",
+      "ai-search",
+      "deep-learning",
+      "deep-research",
+      "deepseek",
+      "deepseek-r1",
+      "document-parser",
+      "document-understanding",
+      "graphrag",
+      "llm",
+      "mcp",
+      "multi-agent",
+      "ollama",
+      "openai",
+      "rag",
+      "retrieval-augmented-generation"
+    ],
+    "readme": null
+  },
+  {
+    "id": 12,
+    "title": "fastify",
+    "description": "Fast and low overhead web framework, for Node.js",
+    "logo": "fastify_fastify_logo.png",
+    "owner": "fastify",
+    "repo": "fastify",
+    "star_count": 34416,
+    "status": 1,
+    "language": "JavaScript",
+    "tags": [
+      "nodejs",
+      "performance",
+      "speed",
+      "webframework"
+    ],
+    "readme": null
+  },
+  {
+    "id": 13,
+    "title": "langchaingo",
+    "description": "LangChain for Go, the easiest way to write LLM-based programs in Go",
+    "logo": "tmc_langchaingo_logo.png",
+    "owner": "tmc",
+    "repo": "langchaingo",
+    "star_count": 7459,
+    "status": 1,
+    "language": "Go",
+    "tags": [
+      "ai",
+      "go",
+      "golang",
+      "langchain"
+    ],
+    "readme": null
+  }
+]

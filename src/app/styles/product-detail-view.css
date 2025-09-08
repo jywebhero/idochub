@@ -1,0 +1,282 @@
+/* GitHub README Styles */
+.github-readme {
+  color: #1f2328;
+  font-size: 16px;
+  line-height: 1.5;
+  word-wrap: break-word;
+}
+
+.github-readme h1 {
+  margin: 0 0 16px 0;
+  padding-bottom: 0.3em;
+  font-size: 2em;
+  font-weight: 600;
+  line-height: 1.25;
+  border-bottom: 1px solid #d0d7de;
+}
+
+.github-readme h2 {
+  margin: 24px 0 16px 0;
+  padding-bottom: 0.3em;
+  font-size: 1.5em;
+  font-weight: 600;
+  line-height: 1.25;
+  border-bottom: 1px solid #d0d7de;
+}
+
+.github-readme h3 {
+  margin: 24px 0 16px 0;
+  font-size: 1.25em;
+  font-weight: 600;
+  line-height: 1.25;
+}
+
+.github-readme h4 {
+  margin: 24px 0 16px 0;
+  font-size: 1em;
+  font-weight: 600;
+  line-height: 1.25;
+}
+
+.github-readme h5 {
+  margin: 24px 0 16px 0;
+  font-size: 0.875em;
+  font-weight: 600;
+  line-height: 1.25;
+}
+
+.github-readme h6 {
+  margin: 24px 0 16px 0;
+  font-size: 0.85em;
+  font-weight: 600;
+  line-height: 1.25;
+  color: #656d76;
+}
+
+.github-readme p {
+  margin-top: 0;
+  margin-bottom: 16px;
+}
+
+.github-readme blockquote {
+  margin: 0 0 16px 0;
+  padding: 0 1em;
+  color: #656d76;
+  border-left: 0.25em solid #d0d7de;
+}
+
+.github-readme blockquote > :first-child {
+  margin-top: 0;
+}
+
+.github-readme blockquote > :last-child {
+  margin-bottom: 0;
+}
+
+.github-readme ul,
+.github-readme ol {
+  margin-top: 0;
+  margin-bottom: 16px;
+  padding-left: 2em;
+}
+
+.github-readme ul {
+  list-style-type: disc;
+}
+
+.github-readme ol {
+  list-style-type: decimal;
+}
+
+.github-readme li {
+  margin: 0.25em 0;
+}
+
+.github-readme li > p {
+  margin-top: 16px;
+}
+
+.github-readme li + li {
+  margin-top: 0.25em;
+}
+
+.github-readme a {
+  color: #0969da;
+  text-decoration: none;
+}
+
+.github-readme a:hover {
+  text-decoration: underline;
+}
+
+.github-readme img {
+  max-width: 100%;
+  height: auto;
+  background-color: #fff;
+  border-style: none;
+  box-sizing: content-box;
+}
+
+.github-readme picture {
+  display: inline-block;
+}
+
+.github-readme picture img {
+  max-width: 100%;
+  height: auto;
+}
+
+.github-readme pre {
+  margin-top: 0;
+  margin-bottom: 16px;
+  padding: 16px;
+  overflow: auto;
+  font-size: 85%;
+  line-height: 1.45;
+  background-color: #f6f8fa;
+  border-radius: 6px;
+}
+
+.github-readme code {
+  padding: 0.2em 0.4em;
+  margin: 0;
+  font-size: 85%;
+  white-space: break-spaces;
+  background-color: rgba(175, 184, 193, 0.2);
+  border-radius: 6px;
+}
+
+.github-readme pre code {
+  padding: 0;
+  margin: 0;
+  font-size: 100%;
+  word-break: normal;
+  white-space: pre;
+  background: transparent;
+  border: 0;
+}
+
+.github-readme .codehilite {
+  margin-bottom: 16px;
+  overflow: auto;
+  background-color: #f6f8fa;
+  border-radius: 6px;
+}
+
+.github-readme .codehilite pre {
+  margin: 0;
+  padding: 16px;
+  background: transparent;
+  border-radius: 0;
+}
+
+.github-readme table {
+  border-spacing: 0;
+  border-collapse: collapse;
+  display: block;
+  width: max-content;
+  max-width: 100%;
+  overflow: auto;
+  margin-top: 0;
+  margin-bottom: 16px;
+}
+
+.github-readme table th {
+  padding: 6px 13px;
+  border: 1px solid #d0d7de;
+  font-weight: 600;
+  background-color: #f6f8fa;
+}
+
+.github-readme table td {
+  padding: 6px 13px;
+  border: 1px solid #d0d7de;
+}
+
+.github-readme table tr {
+  border-top: 1px solid #c6cbd1;
+}
+
+.github-readme table tr:nth-child(2n) {
+  background-color: #f6f8fa;
+}
+
+.github-readme hr {
+  height: 0.25em;
+  padding: 0;
+  margin: 24px 0;
+  background-color: #d0d7de;
+  border: 0;
+}
+
+/* GitHub Badges - 针对您提供的徽章样式 */
+.github-readme img[src*="shields.io"],
+.github-readme img[src*="img.shields.io"],
+.github-readme img[src*="badge.svg"],
+.github-readme img[alt*="badge"] {
+  display: inline-block;
+  margin: 2px 4px 2px 0;
+  vertical-align: middle;
+}
+
+/* GitHub Note/Warning Blockquotes */
+.github-readme blockquote p:first-child:before {
+  content: "";
+}
+
+.github-readme blockquote p:first-child {
+  font-weight: bold;
+}
+
+.github-readme blockquote p:first-child[data-content*="[!NOTE]"] {
+  color: #0969da;
+}
+
+.github-readme blockquote p:first-child[data-content*="[!WARNING]"] {
+  color: #d1242f;
+}
+
+.github-readme blockquote p:first-child[data-content*="[!IMPORTANT]"] {
+  color: #8250df;
+}
+
+/* Code highlighting for bash */
+.github-readme .language-bash {
+  background-color: #f6f8fa;
+}
+
+/* Links styling */
+.github-readme a[href^="http"]:after {
+  content: "";
+}
+
+.github-readme a[href^="https://github.com"] {
+  color: #0969da;
+}
+
+/* 响应式处理 */
+@media (max-width: 768px) {
+  .github-readme {
+    font-size: 14px;
+  }
+  
+  .github-readme h1 {
+    font-size: 1.75em;
+  }
+  
+  .github-readme h2 {
+    font-size: 1.375em;
+  }
+  
+  .github-readme h3 {
+    font-size: 1.125em;
+  }
+  
+  .github-readme table {
+    font-size: 14px;
+  }
+  
+  .github-readme pre {
+    padding: 12px;
+  }
+}

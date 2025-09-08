@@ -1,0 +1,110 @@
+[
+  {
+    "id": 13,
+    "name": "agent"
+  },
+  {
+    "id": 21,
+    "name": "agentic"
+  },
+  {
+    "id": 19,
+    "name": "agentic-ai"
+  },
+  {
+    "id": 23,
+    "name": "agentic-workflow"
+  },
+  {
+    "id": 1,
+    "name": "ai"
+  },
+  {
+    "id": 15,
+    "name": "ai-search"
+  },
+  {
+    "id": 10,
+    "name": "deep-learning"
+  },
+  {
+    "id": 22,
+    "name": "deep-research"
+  },
+  {
+    "id": 16,
+    "name": "deepseek"
+  },
+  {
+    "id": 17,
+    "name": "deepseek-r1"
+  },
+  {
+    "id": 11,
+    "name": "document-parser"
+  },
+  {
+    "id": 8,
+    "name": "document-understanding"
+  },
+  {
+    "id": 63,
+    "name": "go"
+  },
+  {
+    "id": 64,
+    "name": "golang"
+  },
+  {
+    "id": 14,
+    "name": "graphrag"
+  },
+  {
+    "id": 4,
+    "name": "langchain"
+  },
+  {
+    "id": 5,
+    "name": "llm"
+  },
+  {
+    "id": 20,
+    "name": "mcp"
+  },
+  {
+    "id": 24,
+    "name": "multi-agent"
+  },
+  {
+    "id": 62,
+    "name": "nodejs"
+  },
+  {
+    "id": 18,
+    "name": "ollama"
+  },
+  {
+    "id": 6,
+    "name": "openai"
+  },
+  {
+    "id": 60,
+    "name": "performance"
+  },
+  {
+    "id": 9,
+    "name": "rag"
+  },
+  {
+    "id": 12,
+    "name": "retrieval-augmented-generation"
+  },
+  {
+    "id": 61,
+    "name": "speed"
+  },
+  {
+    "id": 59,
+    "name": "webframework"
+  }
+]
