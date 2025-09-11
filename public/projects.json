@@ -6,7 +6,7 @@
     "logo": "infiniflow_ragflow_logo.png",
     "owner": "infiniflow",
     "repo": "ragflow",
-    "star_count": 63084,
+    "star_count": 64047,
     "status": 1,
     "language": "TypeScript",
     "tags": [
@@ -40,7 +40,7 @@
     "logo": "fastify_fastify_logo.png",
     "owner": "fastify",
     "repo": "fastify",
-    "star_count": 34416,
+    "star_count": 34519,
     "status": 1,
     "language": "JavaScript",
     "tags": [
@@ -52,13 +52,26 @@
     "readme": null
   },
   {
+    "id": 7,
+    "title": "langgraph",
+    "description": "构建具有弹性的语言代理图形。",
+    "logo": "langchain-ai_langgraph_logo.png",
+    "owner": "langchain-ai",
+    "repo": "langgraph",
+    "star_count": 18504,
+    "status": 1,
+    "language": "Python",
+    "tags": [],
+    "readme": null
+  },
+  {
     "id": 13,
     "title": "langchaingo",
     "description": "LangChain for Go, the easiest way to write LLM-based programs in Go",
     "logo": "tmc_langchaingo_logo.png",
     "owner": "tmc",
     "repo": "langchaingo",
-    "star_count": 7459,
+    "star_count": 7585,
     "status": 1,
     "language": "Go",
     "tags": [
