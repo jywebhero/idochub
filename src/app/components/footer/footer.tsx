@@ -6,6 +6,7 @@ export const Footer = () => {
       <div className="mx-auto max-w-screen-xl px-4 py-6 sm:px-6 lg:px-8">
           <div className="sm:flex sm:justify-between">
             <p className="text-sm text-gray-500">&copy; 2025. {SITE_TITLE} All rights reserved.</p>
+             <p className="text-sm text-gray-500">Contact: <a href="mailto:support@idochub.dev" className="text-gray-500 transition hover:opacity-75">support@idochub.dev</a></p>
 
             {
                 false

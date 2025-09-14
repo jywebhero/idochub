@@ -79,7 +79,7 @@
     "id": 15,
     "title": "nextra",
     "description": "简洁、强大且灵活的网站生成框架，集成了您喜爱的Next.js所有功能。",
-    "logo": "shuding_nextra_logo.png",
+    "logo": "nextra.svg",
     "owner": "shuding",
     "repo": "nextra",
     "star_count": 13162,

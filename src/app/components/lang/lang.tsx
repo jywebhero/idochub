@@ -6,7 +6,7 @@ import type { LangType } from "@/app/types/project.type"
 const colors = {
   Python: 'bg-blue-500',
   TypeScript: 'bg-blue-700',
-  Javascript: 'bg-yellow-500',
+  JavaScript: 'bg-yellow-500',
   Go: 'bg-green-500',
   Rust: 'bg-red-500',
   Java: 'bg-orange-500',
