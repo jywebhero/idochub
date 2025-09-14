@@ -25,6 +25,7 @@ const ProjectList: React.FC<ProjectListProps> = props => {
                 logo={project.logo}
                 subTitle={project.description}
                 stars={project.star_count}
+                basePath={project.base_path}
                 lang={project.language}
                 tags={project.tags} 
             />

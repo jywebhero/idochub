@@ -13,16 +13,17 @@ export interface ProjectProps {
   repo: string;
   title: string;
   subTitle: string;
-  logo: string
+  logo: string;
+  basePath: string;
   lang: LangType;
   stars?: number;
   tags?: string[]
 }
 
 export const Project: FC<ProjectProps> = props => {
-  const { repo, title, logo, subTitle, lang, stars, tags } = props
+  const { repo, title, logo, subTitle, lang, stars, tags, basePath } = props
 
-  const DOC_LINK = `https://${repo}.${SITE_DOMAIN}`
+  const DOC_LINK = `https://${repo}.${SITE_DOMAIN}${basePath}`
   
   return (
     <div className="bg-gray-50 rounded-lg p-4">

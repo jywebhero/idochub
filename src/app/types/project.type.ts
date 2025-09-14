@@ -10,10 +10,11 @@ export type Project = {
   status: number,
   star_count: number,
   updated_at: string,
+  base_path: string,
   tags?: string[]
 }
 
-export type LangType = 'Python' | 'Java' | 'C++' | 'Go' | 'Rust' | 'PHP' | 'Ruby' | 'C' | 'TypeScript' 
+export type LangType = 'Python' | 'Java' | 'C++' | 'Go' | 'Rust' | 'PHP' | 'Ruby' | 'C' | 'TypeScript' | 'JavaScript'
 
 export type Tag = {
   id: number,

@@ -8,6 +8,7 @@
     "repo": "ragflow",
     "star_count": 64047,
     "status": 1,
+    "base_path": "/",
     "language": "TypeScript",
     "tags": [
       "agent",
@@ -42,6 +43,7 @@
     "repo": "fastify",
     "star_count": 34519,
     "status": 1,
+    "base_path": "/",
     "language": "JavaScript",
     "tags": [
       "nodejs",
@@ -60,19 +62,50 @@
     "repo": "langgraph",
     "star_count": 18504,
     "status": 1,
+    "base_path": "/",
     "language": "Python",
-    "tags": [],
+    "tags": [
+      "ai",
+      "anthropic",
+      "gemini",
+      "langchain",
+      "llm",
+      "openai",
+      "python"
+    ],
+    "readme": null
+  },
+  {
+    "id": 15,
+    "title": "nextra",
+    "description": "简洁、强大且灵活的网站生成框架，集成了您喜爱的Next.js所有功能。",
+    "logo": "shuding_nextra_logo.png",
+    "owner": "shuding",
+    "repo": "nextra",
+    "star_count": 13162,
+    "status": 1,
+    "base_path": "/docs",
+    "language": "TypeScript",
+    "tags": [
+      "markdown",
+      "mdx",
+      "nextjs",
+      "nextra",
+      "react",
+      "static-site-generator"
+    ],
     "readme": null
   },
   {
     "id": 13,
     "title": "langchaingo",
-    "description": "LangChain for Go, the easiest way to write LLM-based programs in Go",
+    "description": "用Go语言编写基于LLM程序的最简便方式：LangChain for Go",
     "logo": "tmc_langchaingo_logo.png",
     "owner": "tmc",
     "repo": "langchaingo",
-    "star_count": 7585,
+    "star_count": 7610,
     "status": 1,
+    "base_path": "/",
     "language": "Go",
     "tags": [
       "ai",
