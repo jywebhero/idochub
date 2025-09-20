@@ -10,8 +10,7 @@
     "clean": "rm -rf .next dist",
     "gendoc": "npx tsx scripts/gendoc.ts",
     "deploy": "wrangler pages deploy ./dist --project-name=idochub",
-    "update": "mv dist/docs .. && npm run build && mv ../docs dist/docs && npm run deploy", 
-    "publish": "npm run build && npm run gendoc && wrangler pages deploy ./dist --project-name=idochub"
+    "publish": "npm run build && npm rundeploy"
   },
   "dependencies": {
     "@radix-ui/react-navigation-menu": "^1.2.13",
