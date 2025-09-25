@@ -1,9 +1,10 @@
-# README
+<div style="text-align: center;">
+    <h6 style="font-size: 1.5rem;">IDOCHUB</h6>
+    <p>为开发者提供国外优质开源项目的中文文档, 让技术学习更高效</p>
+    <img src="/public/imgs/site.png" alt="站点截图" />
+</div>
 
-# IDOCHUB
-
-为开发者提供国外优质开源项目的中文文档, 让技术学习更高效
-
+* LangChain中文文档 - https://langchain.idochub.dev/
 * Ragflow中文文档 - https://ragflow.idochub.dev/
 * LangchainGo中文文档 - https://langchaingo.idochub.dev/
 * LangGraph中文文档 - https://langgraph.idochub.dev/

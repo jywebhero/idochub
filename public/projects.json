@@ -1,5 +1,27 @@
 [
   {
+    "id": 1,
+    "title": "langchain",
+    "description": "构建上下文感知推理应用",
+    "logo": "langchain-ai_langchain_logo.png",
+    "owner": "langchain-ai",
+    "repo": "langchain",
+    "star_count": 115204,
+    "status": 1,
+    "base_path": "/",
+    "language": "Python",
+    "tags": [
+      "ai",
+      "anthropic",
+      "gemini",
+      "langchain",
+      "llm",
+      "openai",
+      "python"
+    ],
+    "readme": null
+  },
+  {
     "id": 2,
     "title": "ragflow",
     "description": "RAGFlow 是一个基于深度文档理解的开源检索增强生成（RAG）引擎。",
