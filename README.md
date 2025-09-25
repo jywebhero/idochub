@@ -1,5 +1,5 @@
-<div style="text-align: center;">
-    <h6 style="font-size: 1.5rem;">IDOCHUB</h6>
+<div align="center">
+    <h1>IDOCHUB</h1>
     <p>为开发者提供国外优质开源项目的中文文档, 让技术学习更高效</p>
     <img src="/public/imgs/site.png" alt="站点截图" />
 </div>
