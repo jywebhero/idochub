@@ -4,9 +4,13 @@
     <img src="/public/imgs/site.png" alt="站点截图" />
 </div>
 
+### AI
 * LangChain中文文档 - https://langchain.idochub.dev/
 * Ragflow中文文档 - https://ragflow.idochub.dev/
 * LangchainGo中文文档 - https://langchaingo.idochub.dev/
 * LangGraph中文文档 - https://langgraph.idochub.dev/
+* Langflow中文文档 - https://langflow.idochub.dev/
+
+### Static site generator
 * Nextra中文文档 - https://nextra.idochub.dev/docs
 
