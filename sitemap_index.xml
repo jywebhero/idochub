@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <sitemap>
+        <loc>https://idochub.dev/sitemap.xml</loc>
+        <lastmod>2025-09-29</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://langchain.idochub.dev/sitemap.xml</loc>
+        <lastmod>2025-09-28</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://langflow.idochub.dev/sitemap.xml</loc>
+        <lastmod>2025-09-28</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://ragflow.idochub.dev/sitemap.xml</loc>
+        <lastmod>2025-09-28</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://langgraph.idochub.dev/sitemap.xml</loc>
+        <lastmod>2025-09-28</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://langchaingo.idochub.dev/sitemap.xml</loc>
+        <lastmod>2025-09-28</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://nextra.idochub.dev/docs/sitemap.xml</loc>
+        <lastmod>2025-09-28</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://fastify.idochub.dev/sitemap.xml</loc>
+        <lastmod>2025-09-28</lastmod>
+    </sitemap>
+    <!-- 可以列出更多子域名的sitemap -->
+</sitemapindex>
