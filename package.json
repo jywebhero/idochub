@@ -4,13 +4,13 @@
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
-    "build": "npm run clean && next build",
+    "build": "npm run clean && next build && npm run sitemap",
     "start": "next start",
     "lint": "next lint",
     "clean": "rm -rf .next dist",
-    "gendoc": "npx tsx scripts/gendoc.ts",
+    "sitemap": "cp sitemap.xml sitemap_index.xml BingSiteAuth.xml dist/",
     "deploy": "wrangler pages deploy ./dist --project-name=idochub",
-    "publish": "npm run build && npm rundeploy"
+    "publish": "npm run build && npm run sitemap && npm run deploy"
   },
   "dependencies": {
     "@radix-ui/react-navigation-menu": "^1.2.13",

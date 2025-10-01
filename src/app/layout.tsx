@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 // import Header from './components/header'
 import Footer from './components/footer'
-import { SITE_TITLE, SITE_DESCRIPTION } from "@/app/config/meta";
+import { SITE_TITLE, SITE_SUB_TITLE, SITE_DESCRIPTION } from "@/app/config/meta";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: SITE_TITLE,
+  title: `${SITE_TITLE} - ${SITE_SUB_TITLE}`,
   description: SITE_DESCRIPTION,
 };
 

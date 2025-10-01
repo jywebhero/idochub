@@ -43,6 +43,25 @@
     "readme": null
   },
   {
+    "id": 16,
+    "title": "uv",
+    "description": "An extremely fast Python package and project manager, written in Rust.",
+    "logo": "astral-sh_uv_logo.png",
+    "owner": "astral-sh",
+    "repo": "uv",
+    "star_count": 68772,
+    "status": 1,
+    "base_path": "/",
+    "language": "Rust",
+    "tags": [
+      "packaging",
+      "python",
+      "resolver",
+      "uv"
+    ],
+    "readme": null
+  },
+  {
     "id": 2,
     "title": "ragflow",
     "description": "RAGFlow 是一个基于深度文档理解的开源检索增强生成（RAG）引擎。",

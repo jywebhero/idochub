@@ -7,4 +7,17 @@
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
+    <!-- 子域名的URL -->
+    <url>
+        <loc>https://langchain.idochub.dev/</loc>
+        <lastmod>2025-09-29</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://fastify.idochub.dev/</loc>
+        <lastmod>2025-09-29</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
 </urlset>

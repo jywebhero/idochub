@@ -14,3 +14,6 @@
 ### Static site generator
 * Nextra中文文档 - https://nextra.idochub.dev/docs
 
+### Python
+* uv中文文档 - https://uv.idochub.dev/docs
+

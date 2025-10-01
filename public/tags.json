@@ -16,12 +16,24 @@
     "name": "agentic-workflow"
   },
   {
+    "id": 29,
+    "name": "agents"
+  },
+  {
     "id": 1,
     "name": "ai"
   },
   {
     "id": 15,
     "name": "ai-search"
+  },
+  {
+    "id": 2,
+    "name": "anthropic"
+  },
+  {
+    "id": 26,
+    "name": "chatgpt"
   },
   {
     "id": 10,
@@ -48,6 +60,14 @@
     "name": "document-understanding"
   },
   {
+    "id": 3,
+    "name": "gemini"
+  },
+  {
+    "id": 28,
+    "name": "generative-ai"
+  },
+  {
     "id": 63,
     "name": "go"
   },
@@ -64,16 +84,40 @@
     "name": "langchain"
   },
   {
+    "id": 27,
+    "name": "large-language-models"
+  },
+  {
     "id": 5,
     "name": "llm"
+  },
+  {
+    "id": 52,
+    "name": "markdown"
   },
   {
     "id": 20,
     "name": "mcp"
   },
   {
+    "id": 68,
+    "name": "mdx"
+  },
+  {
     "id": 24,
     "name": "multi-agent"
+  },
+  {
+    "id": 30,
+    "name": "multiagent"
+  },
+  {
+    "id": 66,
+    "name": "nextjs"
+  },
+  {
+    "id": 65,
+    "name": "nextra"
   },
   {
     "id": 62,
@@ -88,12 +132,32 @@
     "name": "openai"
   },
   {
+    "id": 70,
+    "name": "packaging"
+  },
+  {
     "id": 60,
     "name": "performance"
   },
   {
+    "id": 7,
+    "name": "python"
+  },
+  {
     "id": 9,
     "name": "rag"
+  },
+  {
+    "id": 69,
+    "name": "react"
+  },
+  {
+    "id": 25,
+    "name": "react-flow"
+  },
+  {
+    "id": 71,
+    "name": "resolver"
   },
   {
     "id": 12,
@@ -102,6 +166,14 @@
   {
     "id": 61,
     "name": "speed"
+  },
+  {
+    "id": 67,
+    "name": "static-site-generator"
+  },
+  {
+    "id": 72,
+    "name": "uv"
   },
   {
     "id": 59,
