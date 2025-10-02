@@ -1,12 +1,78 @@
 [
   {
+    "id": 19,
+    "title": "n8n",
+    "description": "Fair-code工作流自动化平台，具备原生AI能力。结合可视化构建与自定义代码，支持自托管或云部署，提供400+种集成。",
+    "logo": "n8n-io_n8n_logo.png",
+    "owner": "n8n-io",
+    "repo": "n8n",
+    "star_count": 144186,
+    "status": 1,
+    "base_path": "/",
+    "language": "TypeScript",
+    "tags": [
+      "ai",
+      "apis",
+      "automation",
+      "cli",
+      "data-flow",
+      "development",
+      "integration-framework",
+      "integrations",
+      "ipaas",
+      "low-code",
+      "low-code-platform",
+      "mcp",
+      "mcp-client",
+      "mcp-server",
+      "n8n",
+      "no-code",
+      "self-hosted",
+      "typescript",
+      "workflow",
+      "workflow-automation"
+    ],
+    "readme": null,
+    "docs_url": null
+  },
+  {
+    "id": 18,
+    "title": "next.js",
+    "description": "被全球领先企业采用，Next.js 让你可以用 React 组件的力量构建 高质量 Web 应用",
+    "logo": "vercel_next.js_logo.png",
+    "owner": "vercel",
+    "repo": "next.js",
+    "star_count": 134795,
+    "status": 1,
+    "base_path": "/",
+    "language": "JavaScript",
+    "tags": [
+      "blog",
+      "browser",
+      "compiler",
+      "components",
+      "hybrid",
+      "nextjs",
+      "node",
+      "react",
+      "server-rendering",
+      "ssg",
+      "static",
+      "static-site-generator",
+      "universal",
+      "vercel"
+    ],
+    "readme": null,
+    "docs_url": null
+  },
+  {
     "id": 3,
     "title": "langflow",
     "description": "Langflow 是一个用于构建和部署搭载人工智能代理和工作流的强力工具。为了使句子更加流畅自然，可以调整为：Langflow 是一款强大的工具，用于构建和部署具备人工智能功能的代理和工作流。",
     "logo": "langflow-ai_langflow_logo.png",
     "owner": "langflow-ai",
     "repo": "langflow",
-    "star_count": 122728,
+    "star_count": 125786,
     "status": 1,
     "base_path": "/",
     "language": "Python",
@@ -18,7 +84,8 @@
       "multiagent",
       "react-flow"
     ],
-    "readme": null
+    "readme": null,
+    "docs_url": null
   },
   {
     "id": 1,
@@ -27,7 +94,7 @@
     "logo": "langchain-ai_langchain_logo.png",
     "owner": "langchain-ai",
     "repo": "langchain",
-    "star_count": 116136,
+    "star_count": 116508,
     "status": 1,
     "base_path": "/",
     "language": "Python",
@@ -40,16 +107,53 @@
       "openai",
       "python"
     ],
-    "readme": null
+    "readme": null,
+    "docs_url": null
+  },
+  {
+    "id": 17,
+    "title": "fastapi",
+    "description": "FastAPI框架，高性能，易于学习，快速编码，可用于生产",
+    "logo": "fastapi_fastapi_logo.png",
+    "owner": "fastapi",
+    "repo": "fastapi",
+    "star_count": 90291,
+    "status": 1,
+    "base_path": "/",
+    "language": "Python",
+    "tags": [
+      "api",
+      "async",
+      "asyncio",
+      "fastapi",
+      "framework",
+      "json",
+      "json-schema",
+      "openapi",
+      "openapi3",
+      "pydantic",
+      "python",
+      "python-types",
+      "python3",
+      "redoc",
+      "rest",
+      "starlette",
+      "swagger",
+      "swagger-ui",
+      "uvicorn",
+      "web"
+    ],
+    "readme": null,
+    "docs_url": null
   },
   {
     "id": 16,
     "title": "uv",
-    "description": "An extremely fast Python package and project manager, written in Rust.",
+    "description": "一个用Rust编写的极快Python包和项目管理器。",
     "logo": "astral-sh_uv_logo.png",
     "owner": "astral-sh",
     "repo": "uv",
-    "star_count": 68772,
+    "star_count": 68848,
     "status": 1,
     "base_path": "/",
     "language": "Rust",
@@ -59,7 +163,8 @@
       "resolver",
       "uv"
     ],
-    "readme": null
+    "readme": null,
+    "docs_url": null
   },
   {
     "id": 2,
@@ -68,7 +173,7 @@
     "logo": "infiniflow_ragflow_logo.png",
     "owner": "infiniflow",
     "repo": "ragflow",
-    "star_count": 65101,
+    "star_count": 65405,
     "status": 1,
     "base_path": "/",
     "language": "TypeScript",
@@ -94,16 +199,17 @@
       "rag",
       "retrieval-augmented-generation"
     ],
-    "readme": null
+    "readme": null,
+    "docs_url": null
   },
   {
     "id": 12,
     "title": "fastify",
-    "description": "Fast and low overhead web framework, for Node.js",
+    "description": "Node.js的快速且低开销Web框架",
     "logo": "fastify_fastify_logo.png",
     "owner": "fastify",
     "repo": "fastify",
-    "star_count": 34659,
+    "star_count": 34708,
     "status": 1,
     "base_path": "/",
     "language": "JavaScript",
@@ -113,7 +219,8 @@
       "speed",
       "webframework"
     ],
-    "readme": null
+    "readme": null,
+    "docs_url": null
   },
   {
     "id": 7,
@@ -122,7 +229,7 @@
     "logo": "langchain-ai_langgraph_logo.png",
     "owner": "langchain-ai",
     "repo": "langgraph",
-    "star_count": 19065,
+    "star_count": 19308,
     "status": 1,
     "base_path": "/",
     "language": "Python",
@@ -135,7 +242,8 @@
       "openai",
       "python"
     ],
-    "readme": null
+    "readme": null,
+    "docs_url": null
   },
   {
     "id": 15,
@@ -144,7 +252,7 @@
     "logo": "nextra.svg",
     "owner": "shuding",
     "repo": "nextra",
-    "star_count": 13194,
+    "star_count": 13202,
     "status": 1,
     "base_path": "/docs",
     "language": "TypeScript",
@@ -156,7 +264,36 @@
       "react",
       "static-site-generator"
     ],
-    "readme": null
+    "readme": null,
+    "docs_url": null
+  },
+  {
+    "id": 20,
+    "title": "fumadocs",
+    "description": "美观且灵活的 React.js 文档框架。",
+    "logo": "fuma-nama_fumadocs_logo.png",
+    "owner": "fuma-nama",
+    "repo": "fumadocs",
+    "star_count": 8487,
+    "status": 1,
+    "base_path": "/",
+    "language": "TypeScript",
+    "tags": [
+      "app-router",
+      "content-collections",
+      "contentlayer",
+      "docs",
+      "fumadocs",
+      "mdx",
+      "next",
+      "nextjs",
+      "react-router",
+      "tailwindcss",
+      "tanstack-router",
+      "typescript"
+    ],
+    "readme": null,
+    "docs_url": null
   },
   {
     "id": 13,
@@ -165,7 +302,7 @@
     "logo": "tmc_langchaingo_logo.png",
     "owner": "tmc",
     "repo": "langchaingo",
-    "star_count": 7692,
+    "star_count": 7726,
     "status": 1,
     "base_path": "/",
     "language": "Go",
@@ -175,6 +312,7 @@
       "golang",
       "langchain"
     ],
-    "readme": null
+    "readme": null,
+    "docs_url": null
   }
 ]

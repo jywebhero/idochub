@@ -11,7 +11,8 @@ export type Project = {
   star_count: number,
   updated_at: string,
   base_path: string,
-  tags?: string[]
+  tags?: string[],
+  docs_url?: string
 }
 
 export type LangType = 'Python' | 'Java' | 'C++' | 'Go' | 'Rust' | 'PHP' | 'Ruby' | 'C' | 'TypeScript' | 'JavaScript'

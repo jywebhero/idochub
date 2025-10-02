@@ -32,8 +32,64 @@
     "name": "anthropic"
   },
   {
+    "id": 78,
+    "name": "api"
+  },
+  {
+    "id": 114,
+    "name": "apis"
+  },
+  {
+    "id": 119,
+    "name": "app-router"
+  },
+  {
+    "id": 81,
+    "name": "async"
+  },
+  {
+    "id": 82,
+    "name": "asyncio"
+  },
+  {
+    "id": 102,
+    "name": "automation"
+  },
+  {
+    "id": 100,
+    "name": "blog"
+  },
+  {
+    "id": 95,
+    "name": "browser"
+  },
+  {
     "id": 26,
     "name": "chatgpt"
+  },
+  {
+    "id": 109,
+    "name": "cli"
+  },
+  {
+    "id": 101,
+    "name": "compiler"
+  },
+  {
+    "id": 94,
+    "name": "components"
+  },
+  {
+    "id": 124,
+    "name": "content-collections"
+  },
+  {
+    "id": 122,
+    "name": "contentlayer"
+  },
+  {
+    "id": 112,
+    "name": "data-flow"
   },
   {
     "id": 10,
@@ -52,12 +108,32 @@
     "name": "deepseek-r1"
   },
   {
+    "id": 110,
+    "name": "development"
+  },
+  {
+    "id": 120,
+    "name": "docs"
+  },
+  {
     "id": 11,
     "name": "document-parser"
   },
   {
     "id": 8,
     "name": "document-understanding"
+  },
+  {
+    "id": 88,
+    "name": "fastapi"
+  },
+  {
+    "id": 80,
+    "name": "framework"
+  },
+  {
+    "id": 125,
+    "name": "fumadocs"
   },
   {
     "id": 3,
@@ -80,6 +156,30 @@
     "name": "graphrag"
   },
   {
+    "id": 97,
+    "name": "hybrid"
+  },
+  {
+    "id": 113,
+    "name": "integration-framework"
+  },
+  {
+    "id": 107,
+    "name": "integrations"
+  },
+  {
+    "id": 103,
+    "name": "ipaas"
+  },
+  {
+    "id": 73,
+    "name": "json"
+  },
+  {
+    "id": 87,
+    "name": "json-schema"
+  },
+  {
     "id": 4,
     "name": "langchain"
   },
@@ -92,12 +192,28 @@
     "name": "llm"
   },
   {
+    "id": 111,
+    "name": "low-code"
+  },
+  {
+    "id": 115,
+    "name": "low-code-platform"
+  },
+  {
     "id": 52,
     "name": "markdown"
   },
   {
     "id": 20,
     "name": "mcp"
+  },
+  {
+    "id": 117,
+    "name": "mcp-client"
+  },
+  {
+    "id": 118,
+    "name": "mcp-server"
   },
   {
     "id": 68,
@@ -112,12 +228,28 @@
     "name": "multiagent"
   },
   {
+    "id": 104,
+    "name": "n8n"
+  },
+  {
+    "id": 121,
+    "name": "next"
+  },
+  {
     "id": 66,
     "name": "nextjs"
   },
   {
     "id": 65,
     "name": "nextra"
+  },
+  {
+    "id": 116,
+    "name": "no-code"
+  },
+  {
+    "id": 49,
+    "name": "node"
   },
   {
     "id": 62,
@@ -132,6 +264,14 @@
     "name": "openai"
   },
   {
+    "id": 77,
+    "name": "openapi"
+  },
+  {
+    "id": 79,
+    "name": "openapi3"
+  },
+  {
     "id": 70,
     "name": "packaging"
   },
@@ -140,8 +280,20 @@
     "name": "performance"
   },
   {
+    "id": 86,
+    "name": "pydantic"
+  },
+  {
     "id": 7,
     "name": "python"
+  },
+  {
+    "id": 85,
+    "name": "python-types"
+  },
+  {
+    "id": 84,
+    "name": "python3"
   },
   {
     "id": 9,
@@ -156,27 +308,103 @@
     "name": "react-flow"
   },
   {
+    "id": 126,
+    "name": "react-router"
+  },
+  {
+    "id": 75,
+    "name": "redoc"
+  },
+  {
     "id": 71,
     "name": "resolver"
+  },
+  {
+    "id": 90,
+    "name": "rest"
   },
   {
     "id": 12,
     "name": "retrieval-augmented-generation"
   },
   {
+    "id": 106,
+    "name": "self-hosted"
+  },
+  {
+    "id": 92,
+    "name": "server-rendering"
+  },
+  {
     "id": 61,
     "name": "speed"
+  },
+  {
+    "id": 98,
+    "name": "ssg"
+  },
+  {
+    "id": 76,
+    "name": "starlette"
+  },
+  {
+    "id": 99,
+    "name": "static"
   },
   {
     "id": 67,
     "name": "static-site-generator"
   },
   {
+    "id": 89,
+    "name": "swagger"
+  },
+  {
+    "id": 74,
+    "name": "swagger-ui"
+  },
+  {
+    "id": 123,
+    "name": "tailwindcss"
+  },
+  {
+    "id": 127,
+    "name": "tanstack-router"
+  },
+  {
+    "id": 48,
+    "name": "typescript"
+  },
+  {
+    "id": 93,
+    "name": "universal"
+  },
+  {
     "id": 72,
     "name": "uv"
   },
   {
+    "id": 83,
+    "name": "uvicorn"
+  },
+  {
+    "id": 96,
+    "name": "vercel"
+  },
+  {
+    "id": 91,
+    "name": "web"
+  },
+  {
     "id": 59,
     "name": "webframework"
+  },
+  {
+    "id": 105,
+    "name": "workflow"
+  },
+  {
+    "id": 108,
+    "name": "workflow-automation"
   }
 ]

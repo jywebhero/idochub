@@ -28,6 +28,7 @@ const ProjectList: React.FC<ProjectListProps> = props => {
                 basePath={project.base_path}
                 lang={project.language}
                 tags={project.tags} 
+                docsUrl={project.docs_url}
             />
           )
         })
