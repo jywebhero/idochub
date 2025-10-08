@@ -10,10 +10,15 @@
 * LangchainGo中文文档 - https://langchaingo.idochub.dev/
 * LangGraph中文文档 - https://langgraph.idochub.dev/
 * Langflow中文文档 - https://langflow.idochub.dev/
+* ModelContextProtocol中文文档 - https://modelcontextprotocol.net.cn/docs/getting-started/intro
+* N8N中文文档 - https://docs.n8ncn.io/
 
 ### Static site generator
 * Nextra中文文档 - https://nextra.idochub.dev/docs
+* Fumadocs中文文档 - https://fumadocs.cndocs.org/
 
 ### Python
 * uv中文文档 - https://uv.idochub.dev/docs
 
+### 前端
+* Next.js中文文档 - https://zh-hans.nextjs.im/
