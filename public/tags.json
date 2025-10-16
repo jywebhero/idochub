@@ -1,5 +1,17 @@
 [
   {
+    "id": 174,
+    "name": "a11y"
+  },
+  {
+    "id": 243,
+    "name": "accessibility"
+  },
+  {
+    "id": 173,
+    "name": "accessible"
+  },
+  {
     "id": 13,
     "name": "agent"
   },
@@ -28,6 +40,10 @@
     "name": "ai-search"
   },
   {
+    "id": 213,
+    "name": "animation"
+  },
+  {
     "id": 2,
     "name": "anthropic"
   },
@@ -36,24 +52,24 @@
     "name": "api"
   },
   {
-    "id": 114,
-    "name": "apis"
-  },
-  {
     "id": 119,
     "name": "app-router"
   },
   {
-    "id": 81,
-    "name": "async"
+    "id": 180,
+    "name": "ark-ui"
   },
   {
-    "id": 82,
-    "name": "asyncio"
+    "id": 152,
+    "name": "authentication"
   },
   {
-    "id": 102,
-    "name": "automation"
+    "id": 195,
+    "name": "backend"
+  },
+  {
+    "id": 159,
+    "name": "better-auth"
   },
   {
     "id": 100,
@@ -64,16 +80,48 @@
     "name": "browser"
   },
   {
+    "id": 192,
+    "name": "build-tool"
+  },
+  {
+    "id": 160,
+    "name": "bun"
+  },
+  {
+    "id": 212,
+    "name": "canvas"
+  },
+  {
+    "id": 170,
+    "name": "chakra-ui"
+  },
+  {
     "id": 26,
     "name": "chatgpt"
+  },
+  {
+    "id": 161,
+    "name": "clack-prompt"
   },
   {
     "id": 109,
     "name": "cli"
   },
   {
+    "id": 129,
+    "name": "cms"
+  },
+  {
     "id": 101,
     "name": "compiler"
+  },
+  {
+    "id": 182,
+    "name": "component"
+  },
+  {
+    "id": 198,
+    "name": "component-library"
   },
   {
     "id": 94,
@@ -84,12 +132,24 @@
     "name": "content-collections"
   },
   {
+    "id": 137,
+    "name": "content-management"
+  },
+  {
+    "id": 136,
+    "name": "content-management-system"
+  },
+  {
     "id": 122,
     "name": "contentlayer"
   },
   {
-    "id": 112,
-    "name": "data-flow"
+    "id": 184,
+    "name": "css-in-js"
+  },
+  {
+    "id": 177,
+    "name": "dark-mode"
   },
   {
     "id": 10,
@@ -108,8 +168,16 @@
     "name": "deepseek-r1"
   },
   {
-    "id": 110,
-    "name": "development"
+    "id": 181,
+    "name": "design-system"
+  },
+  {
+    "id": 191,
+    "name": "devops"
+  },
+  {
+    "id": 225,
+    "name": "distributed-systems"
   },
   {
     "id": 120,
@@ -124,8 +192,44 @@
     "name": "document-understanding"
   },
   {
+    "id": 204,
+    "name": "documentation"
+  },
+  {
+    "id": 214,
+    "name": "drag-and-drop"
+  },
+  {
+    "id": 162,
+    "name": "drizzle-orm"
+  },
+  {
+    "id": 196,
+    "name": "enterprise"
+  },
+  {
+    "id": 169,
+    "name": "expo"
+  },
+  {
+    "id": 130,
+    "name": "express"
+  },
+  {
     "id": 88,
     "name": "fastapi"
+  },
+  {
+    "id": 144,
+    "name": "fastmcp"
+  },
+  {
+    "id": 218,
+    "name": "feather-icons"
+  },
+  {
+    "id": 219,
+    "name": "figma"
   },
   {
     "id": 80,
@@ -152,32 +256,88 @@
     "name": "golang"
   },
   {
+    "id": 203,
+    "name": "golang-library"
+  },
+  {
+    "id": 215,
+    "name": "graphics"
+  },
+  {
+    "id": 131,
+    "name": "graphql"
+  },
+  {
     "id": 14,
     "name": "graphrag"
+  },
+  {
+    "id": 47,
+    "name": "hacktoberfest"
+  },
+  {
+    "id": 200,
+    "name": "hateoas"
+  },
+  {
+    "id": 135,
+    "name": "headless"
+  },
+  {
+    "id": 128,
+    "name": "headless-cms"
+  },
+  {
+    "id": 163,
+    "name": "hono"
+  },
+  {
+    "id": 199,
+    "name": "html"
+  },
+  {
+    "id": 201,
+    "name": "htmx"
+  },
+  {
+    "id": 185,
+    "name": "http"
+  },
+  {
+    "id": 206,
+    "name": "huma"
   },
   {
     "id": 97,
     "name": "hybrid"
   },
   {
-    "id": 113,
-    "name": "integration-framework"
+    "id": 202,
+    "name": "hyperscript"
   },
   {
-    "id": 107,
-    "name": "integrations"
+    "id": 155,
+    "name": "iam"
   },
   {
-    "id": 103,
-    "name": "ipaas"
+    "id": 217,
+    "name": "icons"
   },
   {
-    "id": 73,
-    "name": "json"
+    "id": 141,
+    "name": "jamstack"
+  },
+  {
+    "id": 133,
+    "name": "javascript"
   },
   {
     "id": 87,
     "name": "json-schema"
+  },
+  {
+    "id": 209,
+    "name": "konva"
   },
   {
     "id": 4,
@@ -188,16 +348,24 @@
     "name": "large-language-models"
   },
   {
+    "id": 197,
+    "name": "library"
+  },
+  {
     "id": 5,
     "name": "llm"
   },
   {
-    "id": 111,
-    "name": "low-code"
+    "id": 145,
+    "name": "llms"
   },
   {
-    "id": 115,
-    "name": "low-code-platform"
+    "id": 187,
+    "name": "make"
+  },
+  {
+    "id": 188,
+    "name": "makefile"
   },
   {
     "id": 52,
@@ -208,16 +376,40 @@
     "name": "mcp"
   },
   {
-    "id": 117,
-    "name": "mcp-client"
+    "id": 146,
+    "name": "mcp-clients"
   },
   {
-    "id": 118,
-    "name": "mcp-server"
+    "id": 147,
+    "name": "mcp-servers"
+  },
+  {
+    "id": 148,
+    "name": "mcp-tools"
   },
   {
     "id": 68,
     "name": "mdx"
+  },
+  {
+    "id": 227,
+    "name": "message-queue"
+  },
+  {
+    "id": 224,
+    "name": "messaging"
+  },
+  {
+    "id": 138,
+    "name": "mit-license"
+  },
+  {
+    "id": 143,
+    "name": "model-context-protocol"
+  },
+  {
+    "id": 134,
+    "name": "mongodb"
   },
   {
     "id": 24,
@@ -226,10 +418,6 @@
   {
     "id": 30,
     "name": "multiagent"
-  },
-  {
-    "id": 104,
-    "name": "n8n"
   },
   {
     "id": 121,
@@ -244,20 +432,44 @@
     "name": "nextra"
   },
   {
-    "id": 116,
-    "name": "no-code"
-  },
-  {
     "id": 49,
     "name": "node"
+  },
+  {
+    "id": 211,
+    "name": "node-canvas"
   },
   {
     "id": 62,
     "name": "nodejs"
   },
   {
+    "id": 228,
+    "name": "nsq"
+  },
+  {
+    "id": 240,
+    "name": "nuxt"
+  },
+  {
+    "id": 153,
+    "name": "oauth"
+  },
+  {
+    "id": 154,
+    "name": "oauth2"
+  },
+  {
+    "id": 156,
+    "name": "oidc"
+  },
+  {
     "id": 18,
     "name": "ollama"
+  },
+  {
+    "id": 139,
+    "name": "open-source"
   },
   {
     "id": 6,
@@ -268,32 +480,64 @@
     "name": "openapi"
   },
   {
+    "id": 205,
+    "name": "openapi-server"
+  },
+  {
     "id": 79,
     "name": "openapi3"
+  },
+  {
+    "id": 208,
+    "name": "openapi31"
   },
   {
     "id": 70,
     "name": "packaging"
   },
   {
+    "id": 151,
+    "name": "parsing"
+  },
+  {
+    "id": 132,
+    "name": "payload"
+  },
+  {
+    "id": 140,
+    "name": "payloadcms"
+  },
+  {
     "id": 60,
     "name": "performance"
   },
   {
-    "id": 86,
-    "name": "pydantic"
+    "id": 142,
+    "name": "postgres"
+  },
+  {
+    "id": 237,
+    "name": "primitives"
+  },
+  {
+    "id": 164,
+    "name": "prisma"
   },
   {
     "id": 7,
     "name": "python"
   },
   {
-    "id": 85,
-    "name": "python-types"
+    "id": 236,
+    "name": "query-params"
   },
   {
-    "id": 84,
-    "name": "python3"
+    "id": 226,
+    "name": "queue"
+  },
+  {
+    "id": 241,
+    "name": "radix-ui"
   },
   {
     "id": 9,
@@ -304,6 +548,10 @@
     "name": "react"
   },
   {
+    "id": 172,
+    "name": "react-components"
+  },
+  {
     "id": 25,
     "name": "react-flow"
   },
@@ -312,8 +560,12 @@
     "name": "react-router"
   },
   {
-    "id": 75,
-    "name": "redoc"
+    "id": 176,
+    "name": "reactjs"
+  },
+  {
+    "id": 246,
+    "name": "reka-ui"
   },
   {
     "id": 71,
@@ -324,16 +576,40 @@
     "name": "rest"
   },
   {
+    "id": 207,
+    "name": "rest-api"
+  },
+  {
     "id": 12,
     "name": "retrieval-augmented-generation"
   },
   {
-    "id": 106,
-    "name": "self-hosted"
+    "id": 149,
+    "name": "runtime-typechecking"
+  },
+  {
+    "id": 234,
+    "name": "search-params"
+  },
+  {
+    "id": 186,
+    "name": "server"
   },
   {
     "id": 92,
     "name": "server-rendering"
+  },
+  {
+    "id": 165,
+    "name": "shadcn-ui"
+  },
+  {
+    "id": 210,
+    "name": "shape"
+  },
+  {
+    "id": 167,
+    "name": "solid"
   },
   {
     "id": 61,
@@ -344,8 +620,12 @@
     "name": "ssg"
   },
   {
-    "id": 76,
-    "name": "starlette"
+    "id": 157,
+    "name": "sso"
+  },
+  {
+    "id": 235,
+    "name": "state-management"
   },
   {
     "id": 99,
@@ -356,8 +636,32 @@
     "name": "static-site-generator"
   },
   {
-    "id": 89,
-    "name": "swagger"
+    "id": 150,
+    "name": "static-typing"
+  },
+  {
+    "id": 158,
+    "name": "stripe"
+  },
+  {
+    "id": 183,
+    "name": "styled"
+  },
+  {
+    "id": 168,
+    "name": "sveltekit"
+  },
+  {
+    "id": 222,
+    "name": "svg"
+  },
+  {
+    "id": 223,
+    "name": "svg-icons"
+  },
+  {
+    "id": 216,
+    "name": "svgs"
   },
   {
     "id": 74,
@@ -372,39 +676,111 @@
     "name": "tanstack-router"
   },
   {
+    "id": 189,
+    "name": "task"
+  },
+  {
+    "id": 190,
+    "name": "task-runner"
+  },
+  {
+    "id": 193,
+    "name": "taskfile"
+  },
+  {
+    "id": 166,
+    "name": "turborepo"
+  },
+  {
+    "id": 230,
+    "name": "type-safe"
+  },
+  {
+    "id": 231,
+    "name": "type-safety"
+  },
+  {
     "id": 48,
     "name": "typescript"
+  },
+  {
+    "id": 238,
+    "name": "ui"
+  },
+  {
+    "id": 178,
+    "name": "ui-components"
+  },
+  {
+    "id": 220,
+    "name": "ui-design"
+  },
+  {
+    "id": 239,
+    "name": "ui-kit"
+  },
+  {
+    "id": 179,
+    "name": "ui-library"
+  },
+  {
+    "id": 171,
+    "name": "uikit"
   },
   {
     "id": 93,
     "name": "universal"
   },
   {
-    "id": 72,
-    "name": "uv"
+    "id": 232,
+    "name": "url-parameters"
   },
   {
-    "id": 83,
-    "name": "uvicorn"
+    "id": 233,
+    "name": "url-params"
+  },
+  {
+    "id": 229,
+    "name": "url-state"
+  },
+  {
+    "id": 72,
+    "name": "uv"
   },
   {
     "id": 96,
     "name": "vercel"
   },
   {
+    "id": 221,
+    "name": "vue"
+  },
+  {
+    "id": 245,
+    "name": "vue-component-library"
+  },
+  {
+    "id": 244,
+    "name": "vue-components"
+  },
+  {
+    "id": 242,
+    "name": "vue-radix"
+  },
+  {
+    "id": 175,
+    "name": "wai-aria"
+  },
+  {
     "id": 91,
     "name": "web"
   },
   {
+    "id": 194,
+    "name": "web-framework"
+  },
+  {
     "id": 59,
     "name": "webframework"
-  },
-  {
-    "id": 105,
-    "name": "workflow"
-  },
-  {
-    "id": 108,
-    "name": "workflow-automation"
   }
 ]

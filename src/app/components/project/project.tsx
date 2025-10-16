@@ -4,6 +4,7 @@ import Link from "next/link"
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button";
 import StarCount from "@/components/star-count";
+import ProjectLogo from "../project-logo";
 
 import Lang from "../lang";
 import { SITE_DOMAIN } from '@/app/config/meta'
@@ -34,14 +35,14 @@ export const Project: FC<ProjectProps> = props => {
           {
             logo
             &&
-            <img alt="logo" src={`/imgs/${logo}`} width="32" height="32" className="flex-none" />
+            <ProjectLogo logo={logo} className="flex-none w-[32px] h-[32px]" />
           }
           <h2 className="flex-1 font-bold">{title}</h2>
         </div>
         <p className="text-sm text-gray-700 line-clamp-2 h-10">{subTitle}</p>
       </Link>
       
-      <div className="flex flex-wrap gap-2 mt-3 h-5 overflow-hidden">
+      <div className="flex flex-wrap gap-2 mt-3 h-6 overflow-hidden">
         {tags?.map(tag => (
           <Badge variant="outline" key={tag} asChild>
             <Link href={`/search?keyword=${tag}`}>
